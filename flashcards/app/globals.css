@@ -1,0 +1,14 @@
+html {
+    background-color:gainsboro;
+    max-width: 1500px;
+}
+
+body {
+    display: flex;
+    gap: 1.5em;
+}
+
+main {
+    background-color: white;
+    padding: 1.5em;
+}

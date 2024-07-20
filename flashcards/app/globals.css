@@ -11,4 +11,6 @@ body {
 main {
     background-color: white;
     padding: 1.5em;
+    min-width: 800px;
+    max-width: 1500px;
 }

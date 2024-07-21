@@ -1,9 +1,10 @@
 
 interface button {
-    title: string,
-    color: string
-}
+    title: string;
+    color: string;
 
+}
+        
 import Styles from "./button.module.css"
 
 export default function Button(props: button) {

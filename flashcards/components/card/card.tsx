@@ -1,5 +1,4 @@
 import Styles from "./card.module.css";
-import Button from "../button/button";
 
 export default function Card() {
     return (
@@ -12,7 +11,6 @@ export default function Card() {
                     <input></input>
                 </div>
             </div>
-            <Button title="add to list" color="blue"></Button>
         </div>
 
     )
